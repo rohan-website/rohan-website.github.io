@@ -1,0 +1,26 @@
+body { 
+  background-color: LemonChiffon; 
+} 
+
+header, footer { 
+  background-color: skyblue; 
+} 
+
+footer { 
+  color: white; 
+  font-size: 2em; 
+}
+
+table, tr, th, td { 
+  border: 1px black solid; 
+  border-collapse: collapse; 
+  }
+
+  #tiny{
+	  font-size:0.5em;
+  }
+  header{
+	  border: 5px black solid;
+	  margin: 20px;
+	  padding: 100px;
+  }
