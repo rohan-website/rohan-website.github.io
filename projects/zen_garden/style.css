@@ -5,6 +5,7 @@
 
   All of your CSS goes in this file.
 */
+<<<<<<< HEAD
 
 .submenu {
     display: none;
@@ -14,3 +15,5 @@
 .menu-item:focus-within .submenu {
     display: block;
 }
+=======
+>>>>>>> 30a4dbc9766ffcf3f03b2611c12e5f42299eb4d5
