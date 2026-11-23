@@ -1,0 +1,16 @@
+/*
+  ITD110 Zen Garden Project
+  Your name:
+  Your design concept (one sentence):
+
+  All of your CSS goes in this file.
+*/
+
+.submenu {
+    display: none;
+}
+
+.menu-item:hover .submenu,
+.menu-item:focus-within .submenu {
+    display: block;
+}
